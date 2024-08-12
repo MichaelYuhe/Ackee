@@ -18,6 +18,7 @@ The node server shows you the UI and receives the request from all of your sites
 - [With Render](#with-render)
 - [With Railway](#with-railway)
 - [With Koyeb](#with-koyeb)
+- [With Zeabur](#with-zeabur)
 
 ## With Docker Compose
 
@@ -321,3 +322,12 @@ ID                                  	NAME     	DOMAINS                         	
 ```
 
 Open the URL to access Ackee.
+
+## With Zeabur
+
+You can use the [Zeabur](https://zeabur.com/) button for a one-click deployment and have Ackee running within minutes.
+
+[![Deploy to Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/6YH1QJ)
+
+Upon clicking the button, you will be asked to set the `ACKEE_USERNAME` environment variables. Once you do that, everything should just work on it's own.
+Zeabur will automatically provision the MongoDB database for you and also link it to your Ackee deployment!

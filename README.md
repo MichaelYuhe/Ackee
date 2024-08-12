@@ -42,6 +42,7 @@ Get Ackee up and running…
 - […with Render](docs/Get%20started.md#with-render)
 - […with Railway](docs/Get%20started.md#with-railway)
 - […with Koyeb](docs/Get%20started.md#with-koyeb)
+- […with Zeabur](docs/Get%20started.md#with-zeabur)
 
 And configure Ackee and your server correctly…
 
